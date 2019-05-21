@@ -1,9 +1,0 @@
-If we multiply a 2×3 matrix with a 3×1 matrix, the product matrix is 2×1
-
-product of two matrices general example
-Here is how we get M11 and M12 in the product.
-
-M11 = r11× t11  +  r12× t21  +   r13×t31 
-M12 = r21× t11  +  r22× t21   +  r23×t31
-
-Note: Two matrices A and B can be multiplied only in case of Columns of A equals to rows of B otherwise it results undefined.
