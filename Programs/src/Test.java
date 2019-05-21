@@ -17,7 +17,7 @@ public class Test {
 		float f=20;
 		float u= (f+x)*100000000;
 		//byte z=(byte) (x+y);
-		System.out.println(u);
+		System.out.println("Result : "+u);
 	}
 
 }
